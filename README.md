@@ -117,7 +117,7 @@ hotel-booking-analysis-powerbi/
 ![Overview Dashboard](screenshots/overview-dashboard-3.png)
 ![Overview Dashboard](screenshots/overview-dashboard-4.png)
 ![Overview Dashboard](screenshots/overview-dashboard-5.png)
-![Overview Dashboard](screenshots/overview-dashboard-6.png)
+
 
 
 ---
