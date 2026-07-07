@@ -114,11 +114,7 @@ hotel-booking-analysis-powerbi/
 
 Add screenshots of your dashboard pages in the `screenshots/` folder and link them here.
 
-### Overview Dashboard
 
-### Occupancy Analysis
-
-### Revenue Analysis
 
 ---
 
